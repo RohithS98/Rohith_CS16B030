@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "431470833336",
+    "firebase_url": "https://ultrabakchodi.firebaseio.com",
+    "project_id": "ultrabakchodi",
+    "storage_bucket": "ultrabakchodi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431470833336:android:c9a9b0b660f255ad",
+        "android_client_info": {
+          "package_name": "com.example.psangule.ultrabakchodi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431470833336-ro376j3nc6ln5benv3ov4fl92brknt48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psangule.ultrabakchodi",
+            "certificate_hash": "f0a2d98145819eae594c1743699a2ff807f6185c"
+          }
+        },
+        {
+          "client_id": "431470833336-nmliojm2eg1t3vrmss679omfu93i96fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-u0SDcWPqkSly93StJwwmCjXcgpkrRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431470833336-nmliojm2eg1t3vrmss679omfu93i96fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
